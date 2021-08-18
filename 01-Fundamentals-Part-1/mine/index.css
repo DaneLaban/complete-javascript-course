@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to top left, #b9cc10, #8618cf);
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 50px;
+  line-height: 1.3;
+  width: 100%;
+  padding: 30px;
+  text-align: center;
+  color: white;
+}
